@@ -31,9 +31,11 @@
 #### Kambu: Java Develper, May-December 2011 ####
 
 * Moblie guide application
+
   __Technologies:__ Java, Wicket, Hibernate, Postgresql, Andorid, SQLite, GoogleMapsAPI, Appache CXF
 
 * SSO aplication base on LDAP
+  
   __Technologies:__ Java, LDAP, Appache CXF, Hibernate, Postgresql, SOAP
 
 
@@ -45,43 +47,61 @@ Training in advanced Scala features including advanced object-functional program
 
 ## Education ##
 
-	Master of Science in Computer Science – in progress
-	Dates	2013-present
-	Faculty
-	AGH University of Science And Technology in Kraków
-	Faculty of Electrical Engineering, Automatics, Computer Science and Electronics
+#### Master of Science in Computer Science – in progress ####
+	
+AGH University of Science And Technology in Kraków, 2013-present
+	
+Faculty of Electrical Engineering, Automatics, Computer Science and Electronics
 
-	Master Thesis Title: Scala Performance Analysis in Agent-based Urban Traffic Simulation
-	Technologies: Scala, Akka, Open Street Map, GNUPlot, sbt
 
-	Bachelor of Science In Engineering – high grades 4.5/5 
-	Dates	2009-2013 
-	Faculty
-	AGH University of Science And Technology in Kraków
-	Faculty of Electrical Engineering, Automatics, Computer Science and Electronics
+##### Master Thesis Title:#####
+Scala Performance Analysis in Agent-based Urban Traffic Simulation
+	
+__Technologies:__  Scala, Akka, Open Street Map, GNUPlot, sbt
 
-	Bachelor’s project: Expert System for detecting childern's speech patologies
-    	Technologies: Scala, Lift, Lift Mapper, Postgresql, Wekka, 
+
+#### Bachelor of Science In Engineering – high grades 4.5/5 ####
+	
+AGH University of Science And Technology in Kraków, 2009-2013
+    
+Faculty of Electrical Engineering, Automatics, Computer Science and Electronics
+
+##### Bachelor’s project: #####
+
+Expert System for detecting childern's speech patologies
+
+__Technologies:__   Scala, Lift, Lift Mapper, Postgresql, Wekka
 
 ## Skills ##
-	Programming Languages
-	Scala, Java Script, Java, Python, SQL, Erlang, Action Script, LESS, Prolog, C
+#### Programming Languages ####
+Scala, Java Script, Java, Python, SQL, Erlang, Action Script, LESS, Prolog, C
 
-	Technologies 
-	IntelliJ IDEA, Eclipse
-	Play Framework, Akka, Slick, JQuery, Lift, 
-	AspectJ, Spring Framework,  Android SDK, specs2, ScalaTest, JUnit, Twitter Bootstrap
-	Lift Mapper, Hibernate, OrmLite, JDBC, Wicket
-	PostgreSQL, MongoDB , MySQL, SQLite
-	Tomcat, Jetty,
-	Mercurial, Git, Subversion, JIRA, Confluence, FishEye, Crucible, Bamboo, Github
-	sbt, Maven,
-	Kanban, TDD, BDD, design patterns,
-	REST, SOAP, HTML5, CSS3
+#### Technologies ####
+IntelliJ IDEA, Eclipse
+
+Play Framework, Akka, Slick, JQuery, Lift, 
+
+AspectJ, Spring Framework,  Android SDK, specs2, ScalaTest, JUnit, Twitter Bootstrap
 	
-	Languages
-	Polish: native	
-	English: good
+Lift Mapper, Hibernate, OrmLite, JDBC, Wicket
+	
+PostgreSQL, MongoDB , MySQL, SQLite
+
+Tomcat, Jetty,
+
+Mercurial, Git, Subversion, JIRA, Confluence, FishEye, Crucible, Bamboo, Github
+
+sbt, Maven,
+
+Kanban, TDD, BDD, design patterns,
+
+REST, SOAP, HTML5, CSS3
+	
+#### Languages ####
+
+Polish: native	
+
+English: good
 	
 
 ## Interests ##
