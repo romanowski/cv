@@ -1,4 +1,4 @@
-# CV Krzysztof Romanowski #
+# Krzysztof Romanowski #
 
 
 
