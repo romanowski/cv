@@ -7,7 +7,8 @@
 #### Virtuslab: Scala Specialist December 2011 - present
 (previously Senior Scala Developer, Scala Developer)
 * Specialised Scala Tooling - creating unified tooling for huge Scala worksapces including specialised compilers, debugger 
-  __Technologies: (all including normal usage, configuration but also internals)___ Scala, Scala compiler, SBT, Intellij, Eclipse, Git, Jenkins
+  
+__Technologies: (all including normal usage, configuration but also internals)___ Scala, Scala compiler, SBT, Intellij, Eclipse, Git, Jenkins
 
   Work including support duties (fixing, reproducing users problems) and desiging and managing tooling development
 
