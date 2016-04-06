@@ -11,7 +11,7 @@
 
   Work including support duties (fixing, reproducing users problems) and desiging and managing tooling development
 
-* Open source projects: (ScalaIDE)[https://github.com/scala-ide/scala-ide/graphs/contributors?from=2008-05-11&to=2016-04-06&type=a], (Beholder)[https://github.com/VirtusLab/Beholder] - main author
+* Open source projects: [ScalaIDE](https://github.com/scala-ide/scala-ide/graphs/contributors?from=2008-05-11&to=2016-04-06&type=a), [Beholder](https://github.com/VirtusLab/Beholder) - main author
 
   __Technologies:__ Scala (AST and deep Scala internlans), Eclipse internals, JVM internals (JDI), Slick, Play
 		
@@ -56,11 +56,11 @@ Introductory Workshop for data processing in Spark coducted by Lightbend (previo
 
 ## Talks, leaded trainings ##
 
- * Scalar: (Incremental Compiler: Taming Scalac)[http://scalar-conf.com/]
- * Scalasphere (with Piotr): (Perspective change: huge Scala project)[https://www.youtube.com/watch?v=PbKFg2BD1bs]
- * ScalaCamps  (Using Lambdas for Scala code debugging)[https://www.youtube.com/watch?v=_AUZP6Qx8o0] (Beholder)[http://scalacamp.pl/previous/scalacamp-7.html]
- * Meta Scala programming workshop at (Codepot)[https://codepot.pl/#tutors]
- * Akka worskshop at (Warsjava)[http://warsjawa.pl/]
+ * Scalar: [Incremental Compiler: Taming Scalac](http://scalar-conf.com/)
+ * Scalasphere (with Piotr): [Perspective change: huge Scala project](https://www.youtube.com/watch?v=PbKFg2BD1bs)
+ * ScalaCamps  [Using Lambdas for Scala code debugging](https://www.youtube.com/watch?v=_AUZP6Qx8o0) [Beholder](http://scalacamp.pl/previous/scalacamp-7.html)
+ * Meta Scala programming workshop at [Codepot](https://codepot.pl/#tutors)
+ * Akka worskshop at [Warsjava](http://warsjawa.pl/)
 
 ## Education ##
 
