@@ -4,7 +4,8 @@
 
 ## Profession experience: ##
 
-#### Virtuslab: Scala Specialist (previously Senior Scala Developer, Scala Developer)  December 2011 - present ###
+#### Virtuslab: Scala Specialist December 2011 - present
+(previously Senior Scala Developer, Scala Developer)
 	
 * Open source projects around ScalaIDE and Eclipse focues on Scala AST, Internals of JVM and Eclipse
 
