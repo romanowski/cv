@@ -123,7 +123,8 @@ English: good
 	
 
 ## Interests ##
-* bikes and cycling
+* HEMA
+* cycling
 * folk music
 * cooking
 * traveling
